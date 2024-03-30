@@ -12,5 +12,5 @@ Rode o projeto com `npm run dev`. Por padrão roda em localhost:3000.
 
 ## Stack
 
-![Next.js](https://nextjs.org/)
-![Nextra Docs Template](https://github.com/shuding/nextra-docs-template)
+[Next.js](https://nextjs.org/)
+[Nextra Docs Template](https://github.com/shuding/nextra-docs-template)
