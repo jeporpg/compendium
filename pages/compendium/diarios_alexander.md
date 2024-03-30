@@ -1,6 +1,6 @@
 ---
 id: diarios_alexander
-title: Diários de Alexander, o nômade aaa.
+title: Diários de Alexander, o nômade.
 sidebar_label: Alexander, o nômade.
 ---
 # Diários de Alexander, o nômade
